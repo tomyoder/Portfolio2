@@ -1,24 +1,22 @@
-wiki
+#### _Portfolio2_
 
-
-#### _An attempt to create a fascimile of a wikipedia page. 2/09/17_
-
-#### By _**Tom Yoder, Zach Beecher**_
+#### By _**Tom Yoder**_
 
 ## Description
 
-_This was a class assignment to reverse engineer the graphic and styling elements of a wikipedia page using HTML, CSS and Bootstrap._
+A revised edition of a solo class assignment, first week of class, 2/10/17. Final resubmission 2/20/17.
+An attempt at a portfolio page with programming project links and about me section.
 
 https://tomyoder.github.io/Portfolio2/
 
 ## Setup/Installation Requirements
 
 
-_Nothing unususal here. If it runs, we won._
+_Nothing unususal here._
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_No known bugs._
 
 ## Support and contact details
 
@@ -32,4 +30,4 @@ _HTML, CSS, Bootstrap._
 
 *MIT*
 
-Copyright (c) 2016 **_{Tom Yoder, Zach Beecher}_**
+Copyright (c) 2016 **_{Tom Yoder}_**
